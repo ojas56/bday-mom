@@ -1,0 +1,119 @@
+body {
+    background-image: linear-gradient(135deg, pink, lightblue);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.navbar {
+    background-color: rgb(243, 155, 170);
+    border-radius: 25px;
+}
+ul{
+    overflow: hidden;
+}
+.navbar ul li{
+    float: left;
+    list-style: none;
+    padding: 10px 5px;
+}
+.navbar li a{
+    text-decoration: none;
+    color: magenta;
+    font-weight: 700;
+    padding: 15px 8px;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+.HardWorking h2{
+    text-align: center;
+    padding: 30px 30px;
+    background-color: antiquewhite;
+    border-radius: 25px;
+}
+
+
+
+.HardWorking p {
+    font-size: larger;
+    font-weight: bold;
+    width: 950px;
+    text-align: center;
+}
+
+.HardWorking img{
+    width: 300px;
+    height: 350px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.Couraging h2{
+    text-align: center;
+    padding: 30px 30px;
+    background-color: antiquewhite;
+    border-radius: 25px;
+}
+
+.Couraging p {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.Lovely-Mother h2 {
+    text-align: center;
+    padding: 30px 30px;
+    background-color: antiquewhite;
+    border-radius: 25px;
+}
+
+.Lovely-Mother img {
+    width: 300px;
+    height: 350px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.Lovely-Mother p{
+    font-size: larger;
+    font-weight: bold
+}
+
+.Couraging img{
+    width: 300px;
+    height: 350px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+footer img{
+    width: 600px;
+    height: 650px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+ }
+
+ footer h2{
+    text-align: center;
+    padding: 30px 30px;
+    background-color: antiquewhite;
+    border-radius: 25px;
+ }
+
+ footer h3{
+    text-align: center;
+    padding: 30px 30px;
+    background-color: rgb(231, 168, 226);
+    border-radius: 25px;
+    font-size: larger;
+    font-weight: bolder;
+ }
